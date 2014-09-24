@@ -1,2 +1,2 @@
-Laravel-Model-Validation...
+Laravel-Model-Validation..
 ========================
