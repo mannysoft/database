@@ -1,7 +1,7 @@
 <?php 
 class Test{
 
-  public function test()
+  public static function test()
   {
     return 'test';
   
