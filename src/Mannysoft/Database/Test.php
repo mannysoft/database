@@ -3,7 +3,7 @@ class Test{
 
   public static function test()
   {
-    return 'test';
+    return 'test 123';
   
   }
 }
