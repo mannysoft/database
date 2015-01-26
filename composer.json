@@ -1,6 +1,6 @@
 {
     "name": "mannysoft/database",
-    "description": "Model-based Validation for Laravel 4",
+    "description": "Database",
     "authors": [
         {
             "name": "Manny Isles",
